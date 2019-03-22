@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e99aa14d-d652-4697-8234-9f2b72276704/resourceGroups/chingwen-cat-html/providers/Microsoft.Web/sites/chingwen-cat-html"
+}
